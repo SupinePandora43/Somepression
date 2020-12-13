@@ -1,6 +1,8 @@
 # Somepression
 can i create my own image format? :thinking:
 
+this crazy idea came to me, in development of GmodUltralight, because drawing solid color rectangles with any size much performant than one by one
+
 # concept
 
 compression - not a number, but enum
