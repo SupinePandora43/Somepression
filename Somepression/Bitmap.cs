@@ -1,17 +1,15 @@
-﻿using System.IO;
-
-namespace Somepression
+﻿namespace Somepression
 {
+    public struct Pixel
+    {
+        public byte b;
+        public byte g;
+        public byte r;
+        public byte a;
+    }
+
     public class BitmapBGRA
     {
-        public struct Pixel
-        {
-            public byte b;
-            public byte g;
-            public byte r;
-            public byte a;
-        }
-
         public uint width { get; }
         public uint height { get; }
 
