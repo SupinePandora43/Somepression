@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Somepression", "Somepression\Somepression.csproj", "{6A3035B1-91D7-4398-B1BC-029F84C25897}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Somepression.Tests", "Somepression.Tests\Somepression.Tests.csproj", "{9BC8C0F3-7B2B-4E13-9A67-987F8DD6EF55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20D46DB2-876C-45DD-B623-B1FDA41F4EA6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3035B1-91D7-4398-B1BC-029F84C25897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3035B1-91D7-4398-B1BC-029F84C25897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3035B1-91D7-4398-B1BC-029F84C25897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3035B1-91D7-4398-B1BC-029F84C25897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC8C0F3-7B2B-4E13-9A67-987F8DD6EF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC8C0F3-7B2B-4E13-9A67-987F8DD6EF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC8C0F3-7B2B-4E13-9A67-987F8DD6EF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC8C0F3-7B2B-4E13-9A67-987F8DD6EF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC03FCE3-0314-4639-A62E-9A4C4EF9920F}
+	EndGlobalSection
+EndGlobal
